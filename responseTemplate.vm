@@ -1,0 +1,2 @@
+#set ($errorMessageObj = $input.path('$.errorMessageObj'))
+$errorMessageObj
